@@ -1,0 +1,5 @@
+this is an anil.Many times when writing Shell scripts, you may find yourself in a situation where you need to perform an action based on whether a file exists or not.
+
+In Bash, you can use the test command to check whether a file exists and determine the type of the file.
+
+The test command takes one of the following syntax forms:
